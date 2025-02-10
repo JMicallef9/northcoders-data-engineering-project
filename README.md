@@ -4,7 +4,7 @@ This is a copy of the original project. To access the complete and accurate comm
 
 ## The Product
 
-A data platform that extracts data from an operational database archives it in a data lake, and makes it available in a remodelled OLAP data warehouse. The application will:
+A data platform that extracts data from an operational database, archives it in a data lake, and makes it available in a remodelled OLAP data warehouse. The application will:
   - operate automatically on a schedule
   - log progress to Cloudwatch
   - trigger email alerts in the event of failures
